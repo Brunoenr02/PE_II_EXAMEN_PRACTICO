@@ -13,15 +13,15 @@
 
 ### Captura 1
 
-(fotos/2.jpg)
+[Captura 1](fotos/2.jpg)
 
 **Descripción:**
 Se modifico los campos que muestran el avance en porcentaje del proyecto ademas de etiquetas de las etapas
 
 ### Captura 
 
-(fotos/3.jpg)
-(fotos/4.jpg)
+[Captura 2](fotos/3.jpg)
+[Captura 3](fotos/4.jpg)
 
 **Descripción:**
 Se completaron los campos para la Matriz de Crecimiento segun campos de la guia 
