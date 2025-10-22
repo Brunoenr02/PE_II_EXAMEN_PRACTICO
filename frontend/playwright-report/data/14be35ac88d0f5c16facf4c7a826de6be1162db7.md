@@ -1,0 +1,83 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "PyFlowOps Plan Estratégico TI" [ref=e8]:
+        - /url: /dashboard
+        - img [ref=e10]
+        - generic [ref=e12]:
+          - heading "PyFlowOps" [level=1] [ref=e13]
+          - paragraph [ref=e14]: Plan Estratégico TI
+      - navigation [ref=e15]:
+        - link "Mis Planes" [ref=e16]:
+          - /url: /dashboard
+          - img [ref=e17]
+          - text: Mis Planes
+      - generic [ref=e20]:
+        - button [ref=e22] [cursor=pointer]:
+          - img [ref=e23]
+        - generic [ref=e26]:
+          - generic [ref=e27]:
+            - paragraph [ref=e28]: Test User
+            - paragraph [ref=e29]: test1760846435670@example.com
+          - img [ref=e32]
+        - button "Salir" [ref=e35] [cursor=pointer]:
+          - img [ref=e36]
+          - generic [ref=e39]: Salir
+  - main [ref=e40]:
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - heading "Mis Planes Estratégicos" [level=1] [ref=e45]
+            - paragraph [ref=e46]: Gestiona y desarrolla tus planes estratégicos de TI
+          - button "Nuevo Plan" [ref=e48] [cursor=pointer]:
+            - img [ref=e49]
+            - text: Nuevo Plan
+        - generic [ref=e51]:
+          - img [ref=e52]
+          - textbox "Buscar planes..." [ref=e55]
+      - generic [ref=e57]:
+        - heading "Mis Planes" [level=2] [ref=e58]
+        - generic [ref=e60]:
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - heading "Plan Estratégico de Prueba E2E" [level=3] [ref=e64]
+              - paragraph [ref=e65]: Descripción completa del plan estratégico
+            - generic [ref=e67]:
+              - img [ref=e68]
+              - text: En desarrollo
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - img [ref=e73]
+              - text: Creado el 18 oct 2025
+            - generic [ref=e76]:
+              - generic [ref=e77]: Progreso
+              - generic [ref=e78]: 0%
+            - generic [ref=e80]:
+              - link "Identidad" [ref=e81]:
+                - /url: /plan/23?section=identity
+                - img [ref=e82]
+                - text: Identidad
+              - link "Análisis" [ref=e86]:
+                - /url: /plan/23?section=analysis
+                - img [ref=e87]
+                - text: Análisis
+              - link "Herramientas" [ref=e90]:
+                - /url: /plan/23?section=tools
+                - img [ref=e91]
+                - text: Herramientas
+              - link "Estrategias" [ref=e95]:
+                - /url: /plan/23?section=strategies
+                - img [ref=e96]
+                - text: Estrategias
+            - generic [ref=e100]:
+              - link "Editar Plan" [ref=e101]:
+                - /url: /plan/23
+                - img [ref=e102]
+                - text: Editar Plan
+              - button "Eliminar plan" [ref=e105] [cursor=pointer]:
+                - img [ref=e106]
+```
